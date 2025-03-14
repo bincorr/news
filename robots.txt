@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://bincorr.github.io/news/sitemap.xml
